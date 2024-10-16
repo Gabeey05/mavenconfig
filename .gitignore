@@ -21,6 +21,12 @@ target/
 .springBeans
 .sts4-cache
 
+# Maven build fájlok
+/target/
+logs/
+*.log
+
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
